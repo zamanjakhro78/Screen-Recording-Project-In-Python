@@ -1,2 +1,2 @@
 # Screen-Recording-Project-In-Python
-A lightweight OBS-style screen recorder built in Python — dark UI, MP4 export, mic audio, pause/resume, and auto-installs all dependencies on first run.
+Smart Screen Recorder is a Python desktop app that lets you record your screen with a clean, modern dark-themed GUI — no complex setup required. It auto-installs all missing libraries on first launch, captures screen frames using pyautogui and opencv, records microphone audio in parallel, and exports the final output as an MP4 file. Features include a live recording timer, pause/resume, FPS and quality controls, a countdown before recording starts, and global hotkeys (F9 / F10 / F11). Built entirely with standard Python tools — no Electron, no bloat.
